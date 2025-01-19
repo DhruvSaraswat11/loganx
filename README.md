@@ -1,2 +1,4 @@
-# Spotify-clone
- hello guys i made a spotify clone in which you can play music the main functionaliity of this project is that it automatically loads your all songs from your device and play these  songs as you  select albums
+#Loganx
+LoganX is an online music player that allows you to load and play songs stored on your device. With a user-friendly interface, you can easily organize and enjoy your local music collection directly in the browser, without needing internet access or streaming services.
+
+check this website on this url : "https://dhruvsaraswat.freewebhostmost.com"
